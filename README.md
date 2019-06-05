@@ -1,4 +1,7 @@
 # Yelp-Ratings-Prediction
+
+![alt text](https://github.com/Taniesta/Yelp-Ratings-Prediction/blob/master/wordcloud.png)
+
 Predict Yelp ratings using reviews and restaurants information
 The project aims to combine information from restaurants and their reviews to predict whether the rating of a restaurant is greater than or equal to 4. Codes, slides and the paper are posted along with the data in this repository.
 
@@ -13,3 +16,5 @@ This notebook is about creating models to predict restaurants' ratings based on 
 
 ## paper
 Details, results and insights of the projected can be found in the paper.
+
+![alt text](https://github.com/Taniesta/Yelp-Ratings-Prediction/blob/master/auc.png)
